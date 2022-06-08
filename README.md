@@ -1,4 +1,8 @@
 > 🙋♀️ Hi, I’m @AshteriskGaming
+> 💸 DONATE:
+> <a href="https://www.patreon.com/bePatron?u=25392805" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2BC5XU)
+> 
 > 
 > I’m interested in:
 > - Video Games 🎮  
@@ -16,7 +20,7 @@
 > - and other media-based programming
 > 
 > 📫 You can reach me at my:
-> - Discord: Ashterisk#7605
+> - Discord: [![discord]([https://discord.com/assets/cb48d2a8d4991281d7a6a95d2f58195e.svg)](https://discord.gg/ffkFhFp)
 > - YouTube: www.youtube.com/user/ashteriskgaming
 > - Twitch: www.twitch.tv/ashteriskgaming
 > - deviantArt: www.deviantart.com/pastaandwhiterice
