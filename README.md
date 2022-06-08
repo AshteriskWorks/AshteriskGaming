@@ -2,7 +2,6 @@
 > 
 > 💸 DONATE:
 > 
-> [![patreon](https://images.squarespace-cdn.com/content/v1/570c331be321403a73df5d4e/1551795484415-R09OOCKIU79KPWJ25OSY/patreon-button.jpg)](https://www.patreon.com/ashterisk)
 > 
 > [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2BC5XU)
 > 
