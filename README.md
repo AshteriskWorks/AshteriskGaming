@@ -1,7 +1,3 @@
-<p align="center">lol</p>
-
->
-
 <p align="center">┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━*.·:·.☽✧  ✦  ✧☾.·:·.*━┑</p>
 
 <div style="font-size:0; width:100%;" align="center">
