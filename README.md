@@ -1,6 +1,6 @@
 > 🙋♀️ Hi, I’m @AshteriskGaming
 > 💸 DONATE:
-> <a href="https://www.patreon.com/bePatron?u=25392805" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+> patreon: Ashterisk
 > [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2BC5XU)
 > 
 > 
