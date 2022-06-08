@@ -1,9 +1,3 @@
-<div style="font-size:0; width:100%;" align="center">
-     <a href="https://www.youtube.com/user/ashteriskgaming"><img src="https://yt3.ggpht.com/9cl3LY9BbeCmj4UaxQEO_2Hxatl4nKBWNrxiNo8cL8OCdop58glzWo-RMxXOgLRq4q4BU8DZ=s88-c-k-c0x00ffffff-no-rj" width="150"/></a>
-</div>
-
->
-
 <p align="center">lol</p>
 
 >
