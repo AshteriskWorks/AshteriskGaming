@@ -1,4 +1,4 @@
-<p align="center">┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━*.·:·.☽✧  ✦  ✧☾.·:·.*━┑</p>
+<p align="center">┍━━━━━━━━━━━━━━━━*.·:·.☽✧  ✦  ✧☾.·:·.*━━━━━━━━━━━━━━━━┑</p>
 
 <div style="font-size:0; width:100%;" align="center">
     &nbsp;
@@ -48,7 +48,7 @@
 
 <p align="center">┍━━━━━━━━━━━━━━━━━━━━━━━━━┑</p>
 
-<h3 align="center"> .·:·. 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒔 .·:·. </h3>
+<h3 align="center">『 𝑰𝑵𝑻𝑬𝑹𝑬𝑺𝑻𝑺 』</h3>
 
 <div align="center" width="50%">
     <p>Video Games 🎮</p>
@@ -66,7 +66,7 @@
 
 <p align="center">┍━━━━━━━━━━━━━━━━━━━━━━━━━━┑</p>
 
-<h3 align="center"> .·:·. 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈: .·:·. </h3>
+<h3 align="center">『 𝑪𝑼𝑹𝑹𝑬𝑵𝑻𝑳𝒀 𝑳𝑬𝑨𝑹𝑵𝑰𝑵𝑮 』</h3>
 
 <div align="center" width="50%">
     <p>C++</p>
@@ -83,7 +83,7 @@
 
 <p align="center">┍━━━━━━━━━━━━━━━━━━━━━━━━━━┑</p>
 
-<h3 align="center"> .·:·. 𝑪𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒐𝒏 𝑭𝒐𝒄𝒖𝒔: .·:·. </h3>
+<h3 align="center">『 𝑪𝑶𝑳𝑳𝑨𝑩𝑶𝑹𝑨𝑻𝑰𝑶𝑵 』</h3>
 
 <div align="center" width="50%">
     <p>Video Games 🎮</p>
@@ -95,7 +95,7 @@
 
 &nbsp;
 
-<p align="center">┕━*.·:·.☽✧  ✦  ✧☾.·:·.*━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙</p>
+<p align="center">┕━━━━━━━━━━━━━━━━*.·:·.☽✧  ✦  ✧☾.·:·.*━━━━━━━━━━━━━━━━┙</p>
 
 <!---
 AshteriskGaming/AshteriskGaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
