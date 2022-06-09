@@ -1,5 +1,7 @@
 <p align="center">┍━━━━━━━━━━━━━━━━*.·:·.☽✧  ✦  ✧☾.·:·.*━━━━━━━━━━━━━━━━┑</p>
 
+&nbsp;
+
 <div style="font-size:0; width:100%;" align="center">
     &nbsp;
     <a href="https://www.youtube.com/user/ashteriskgaming/"><img src="https://api.iconify.design/bxl/youtube.svg?color=white" width="50" style="text-decoration:none;"/></a>
@@ -20,7 +22,7 @@
 
 &nbsp;
 
-<h3 align="center"> .·:·.✦.·:·. 𝑭𝑶𝑹 𝑫𝑶𝑵𝑨𝑻𝑰𝑶𝑵𝑺: .·:·.✦.·:·. </h3>
+<h3 align="center">『 𝑭𝑶𝑹 𝑫𝑶𝑵𝑨𝑻𝑰𝑶𝑵𝑺 』</h3>
 
 &nbsp;
 
