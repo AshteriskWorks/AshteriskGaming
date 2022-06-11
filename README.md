@@ -35,7 +35,7 @@
 
 <div style="font-size:0; width:100%;" align="center">
     <p>𝘍𝘖𝘙 𝘖𝘕𝘌-𝘛𝘐𝘔𝘌 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕𝘚 ►</p>
-    <a href="https://ko-fi.com/P5P2BC5XU"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8c9ec24-bd85-42a9-bd1d-58ad0e3c867e/df716xa-87d0107e-c3b6-49dc-b9a1-19262e111ef2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4YzllYzI0LWJkODUtNDJhOS1iZDFkLTU4YWQwZTNjODY3ZVwvZGY3MTZ4YS04N2QwMTA3ZS1jM2I2LTQ5ZGMtYjlhMS0xOTI2MmUxMTFlZjIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2s20SVFp8TNpoufvCHEQOUIKf6e4CvG-3HusKK8d6MU" width="300" style="text-decoration:none;"/></a>
+    <a href="https://ko-fi.com/P5P2BC5XU"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8c9ec24-bd85-42a9-bd1d-58ad0e3c867e/df73u5f-19e21b6b-598c-47c2-b265-f254ae45f93e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4YzllYzI0LWJkODUtNDJhOS1iZDFkLTU4YWQwZTNjODY3ZVwvZGY3M3U1Zi0xOWUyMWI2Yi01OThjLTQ3YzItYjI2NS1mMjU0YWU0NWY5M2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Da8ktK-5rCdUIaPQF35AdgbW7ib_XEoYKvSZ4RmX7Y0" width="300" style="text-decoration:none;"/></a>
 </div>
 
 &nbsp;
