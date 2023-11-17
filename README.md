@@ -1,10 +1,12 @@
 <nav>
     <div align="center">
         <a href="https://ashteriskworks.carrd.co"><img src="https://api.iconify.design/simple-icons/carrd.svg?color=white" width="50"></a>
-        <a href="https://www.youtube.com/user/ashteriskgaming/"><img src="https://api.iconify.design/bxl/youtube.svg?color=white" width="50"></a>
-        <a href="https://discord.gg/ffkFhFp"><img src="https://api.iconify.design/bxl/discord-alt.svg?color=white" width="50"></a>
+    </div>
+    <br>
+    <div align="center">
+        <a href="https://www.youtube.com/@AshteriskWorks"><img src="https://api.iconify.design/bxl/youtube.svg?color=white" width="50"></a>
+        <a href="https://discord.gg/SDM3svaSyN"><img src="https://api.iconify.design/bxl/discord-alt.svg?color=white" width="50"></a>
         <a href="https://twitter.com/AshteriskWorks"><img src="https://api.iconify.design/bxl/twitter.svg?color=white" width="50"></a>
-        <a href="https://www.twitch.tv/cenerevt/"><img src="https://api.iconify.design/bxl/twitch.svg?color=white" width="50"></a>
     </div>
     <hr>
 </nav>
