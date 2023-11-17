@@ -10,24 +10,23 @@
 </nav>
 
 ```py
-def generate_readme():
-    about_info = {
+def about_me():
+    info_about = {
         "Name": "Ash/Cenere",
         "Location": "Nunya",
         "GitHub": "[AshteriskWorks](https://github.com/AshteriskWorks)"
     }
-    interests = [
-        "Video Games 🎮",
-        "Anime/Manga 🗾",
-        "Computer Science 💻"
-    ]
-    learning = [
-        "JavaScript 📃",
-        "Python 🐍",
-        "C++ ➕",
-        "Unreal Engine 🤖"
-    ]
+    interests = ["Video Games 🎮", "Anime/Manga 🗾", "Computer Science 💻"]
+    engines = ["RPGMaker 🏹", "Ren'py 👀", "Unreal Engine 🤖"]
     
+```
+
+```js
+function programmingInfo() {
+    let frontEnd = ["HTML", "CSS", "Javascript"];
+    let backEnd = ["Python 🐍"];
+    let learning = ["JavaScript 📃", "Python 🐍", "Ruby", "SQL", "C++ ➕"];
+}
 ```
 
 <body align="center">
