@@ -16,7 +16,7 @@ def about_me():
     info_about = {
         "Name": "Ash/Cenere",
         "Location": "Nunya",
-        "GitHub": "[AshteriskWorks](https://github.com/AshteriskWorks)"
+        "GitHub": "[CenereRoses](https://github.com/CenereRoses)"
     }
     interests = ["Video Games 🎮", "Anime/Manga 🗾", "Computer Science 💻"]
     engines = ["RPGMaker 🏹", "Ren'py 👀", "Unreal Engine 🤖"]
