@@ -1,6 +1,6 @@
 <nav>
     <div align="center">
-        <a href="https://cenere.framer.website"><img src="https://api.iconify.design/simple-icons/framer.svg?color=white" width="50"></a>
+        <a href="https://cenere.framer.website"><img src="https://api.iconify.design/simple-icons/framer.svg?color=white" width="40"></a>
         <a href="https://www.youtube.com/@CenereRoses"><img src="https://api.iconify.design/bxl/youtube.svg?color=white" width="50"></a>
         <a href="https://discord.gg/SDM3svaSyN"><img src="https://api.iconify.design/bxl/discord-alt.svg?color=white" width="50"></a>
         <a href="https://twitter.com/CenereRoses"><img src="https://api.iconify.design/bxl/twitter.svg?color=white" width="50"></a>
